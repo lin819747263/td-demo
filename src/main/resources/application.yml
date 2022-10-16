@@ -1,0 +1,6 @@
+#spring:
+#  datasource:
+#    driver-class-name: com.taosdata.jdbc.TSDBDriver
+#    url: jdbc:TAOS://td01:6030/key_data
+#    username: root
+#    password: taosdata
